@@ -1,4 +1,4 @@
 # floydhub_genetic_algorithm_tutorial
 Code for a genetic algorithm tutorial written for FloydHub
 
-TODO: run on floydhub button, link to article
+[Read the article here](https://blog.floydhub.com/introduction-to-genetic-algorithms/)
